@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: https://lodthomaz.github.io/RLet_dois/
 title: RLet
 theme: hugo-theme-m10c
 paginate: 5
@@ -13,10 +13,16 @@ menu:
       url: /tags/
 params:
   author: John Doe
-  description: Tentando criar um blog via R [versão 178]
+  description: Tentando criar um blog via R e tentando alterar a cor !!! [versão 178 - agora vai]
   menu_item_separator: ' - '
   social:
     - name: github
-      url: https://github.com/gohugoio
+      url: https://github.com/lodthomaz/
     - name: linkedin
-      url: https://twitter.com/gohugoio
+      url: https://www.linkedin.com/in/leticiathomaz/
+params.style:
+  darkestColor: "#463625"
+  darkColor: "#2a3738"
+  primaryColor: "#eeee6a"
+  lightColor: "#96a879"
+  lightestColor: "#ffffff"
