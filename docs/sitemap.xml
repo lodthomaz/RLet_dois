@@ -2,19 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lodthomaz.github.io/RLet_dois/categories/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://lodthomaz.github.io/RLet_dois/posts/2020-12-01-r-rmarkdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://lodthomaz.github.io/RLet_dois/tags/plot/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://lodthomaz.github.io/RLet_dois/posts/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://lodthomaz.github.io/RLet_dois/categories/r/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://lodthomaz.github.io/RLet_dois/tags/r-markdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://lodthomaz.github.io/RLet_dois/tags/regression/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://lodthomaz.github.io/RLet_dois/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://lodthomaz.github.io/RLet_dois/tags/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
     <loc>https://lodthomaz.github.io/RLet_dois/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lodthomaz.github.io/RLet_dois/tags/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lodthomaz.github.io/RLet_dois/posts/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lodthomaz.github.io/RLet_dois/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lodthomaz.github.io/RLet_dois/tags/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lodthomaz.github.io/RLet_dois/tags/themes/</loc>
@@ -82,7 +100,5 @@
   </url><url>
     <loc>https://lodthomaz.github.io/RLet_dois/posts/test-1/</loc>
     <lastmod>1012-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lodthomaz.github.io/RLet_dois/categories/</loc>
   </url>
 </urlset>
