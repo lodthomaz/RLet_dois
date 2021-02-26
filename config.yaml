@@ -8,11 +8,13 @@ menu:
     - identifier: home
       name: Home
       url: /
+      
     - identifier: tags
       name: Tags
       url: /tags/
+
 params:
-  author: John Doe
+  author: Letícia Thomaz
   description: Tentando criar um blog via R e tentando alterar a cor !!! [versão 178 - agora vai]
   menu_item_separator: ' - '
   social:
@@ -26,4 +28,3 @@ params:
     primaryColor: "#2E89FF"
     lightColor: "#CDE3FF"
     lightestColor: "#ffffff"
-  
