@@ -20,11 +20,10 @@ params:
       url: https://github.com/lodthomaz/
     - name: linkedin
       url: https://www.linkedin.com/in/leticiathomaz/
-
-params.style:
-  darkestColor: "#463625"
-  darkColor: "#2a3738"
-  primaryColor: "#eeee6a"
-  lightColor: "#96a879"
-  lightestColor: "#ffffff"
+  style:
+    darkestColor: "#242930"
+    darkColor: "#303740"
+    primaryColor: "#2E89FF"
+    lightColor: "#CDE3FF"
+    lightestColor: "#ffffff"
   
