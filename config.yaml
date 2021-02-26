@@ -1,22 +1,22 @@
 baseURL: https://example.com
-title: Your title
+title: RLet
 theme: hugo-theme-m10c
 paginate: 5
+publishDir: "docs/"
 menu:
   main:
     - identifier: home
       name: Home
-      url: /
+      url: /home/
     - identifier: tags
       name: Tags
       url: /tags/
 params:
   author: John Doe
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula
-    turpis sit amet elit pretium.
+  description: Tentando criar um blog via R [versão 178]
   menu_item_separator: ' - '
   social:
     - name: github
       url: https://github.com/gohugoio
-    - name: twitter
+    - name: linkedin
       url: https://twitter.com/gohugoio
